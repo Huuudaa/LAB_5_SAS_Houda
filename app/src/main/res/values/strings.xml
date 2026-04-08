@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertisseur Pro</string>
+
+    <string name="onglet_chaleur">Chaleur</string>
+    <string name="onglet_distance">Distance</string>
+
+    <string name="erreur_valeur_vide">Veuillez entrer une valeur numérique</string>
+
+    <string name="resultat_format">Résultat : %.2f</string>
+    <string name="resultat_vide">Résultat : ---</string>
+
+    <string name="titre_conversion_temp">Conversion Celsius ↔ Fahrenheit</string>
+    <string name="titre_conversion_dist">Conversion Kilomètres ↔ Milles</string>
+
+    <string name="convertir">Convertir</string>
+    <string name="saisir_valeur">Entrer une valeur</string>
+
+    <string name="celsius_to_fahrenheit">Celsius → Fahrenheit</string>
+    <string name="fahrenheit_to_celsius">Fahrenheit → Celsius</string>
+
+    <string name="km_to_miles">Kilomètres → Milles</string>
+    <string name="miles_to_km">Milles → Kilomètres</string>
+
+    <string name="menu_quitter">Fermer</string>
+    <string name="dialog_quitter_titre">Quitter</string>
+    <string name="dialog_quitter_message">Voulez-vous vraiment fermer l\'application ?</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+</resources>
