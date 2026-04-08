@@ -14,6 +14,7 @@ Application Android simple démontrant l'utilisation des onglets (TabLayout et V
 - Validation des champs de saisie (message Toast si vide)
 - Menu "Fermer" dans la barre d'action
 - Dialogue de confirmation avant de quitter (touche Retour ou menu)
+<img width="330" height="740" alt="image" src="https://github.com/user-attachments/assets/03f6ce8c-d7fc-440e-94ea-d8be38974196" />
 
 ---
 
