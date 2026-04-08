@@ -15,6 +15,7 @@ Application Android simple démontrant l'utilisation des onglets (TabLayout et V
 - Menu "Fermer" dans la barre d'action
 - Dialogue de confirmation avant de quitter (touche Retour ou menu)
 <img width="330" height="740" alt="image" src="https://github.com/user-attachments/assets/03f6ce8c-d7fc-440e-94ea-d8be38974196" />
+<img width="331" height="740" alt="image" src="https://github.com/user-attachments/assets/89f355ad-4fe8-4993-9e22-f753d298b56d" />
 
 ---
 
